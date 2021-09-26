@@ -1,7 +1,7 @@
 # Norien's Curse
 First game i ever made!
-Here you can find the source code and the final build.
+Here you can find the final build and some shaders i made at the time.
 
 # Norien's Curse
 Primer juego que hice!
-Aqui encontrarás el código fuente y la build final de este juego.
+Aqui encontrarás la build final y un par de shaders que hice en su tiempo.
